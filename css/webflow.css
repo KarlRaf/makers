@@ -95,6 +95,11 @@ html.w-mod-touch * {
   cursor: pointer;
   border-radius: 0;
 }
+
+.gist {
+  display: flex;
+}
+
 input.w-button {
   -webkit-appearance: button;
 }
